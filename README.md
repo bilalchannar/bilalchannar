@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/bilalchannar">
-    <img src="./hero-banner.svg" alt="Bilal Tariq - Software Engineer Banner" width="100%" />
+  <a href="https://portfolio-six-lilac-33.vercel.app/">
+    <img src="https://raw.githubusercontent.com/bilalchannar/bilalchannar/main/hero-banner.svg?v=3" alt="Bilal Tariq - Software Engineer Banner" width="100%" />
   </a>
 </p>
 
@@ -14,6 +14,7 @@
   <a href="https://github.com/bilalchannar"><img src="https://img.shields.io/github/followers/bilalchannar?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22&logoColor=ffffff" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/bilaltariq20/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
   <a href="mailto:bilalchannar01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"></a>
+  <a href="https://portfolio-six-lilac-33.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Portfolio"></a>
   <a href="https://github.com/bilalchannar"><img src="https://komarev.com/ghpvc/?username=bilalchannar&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
@@ -28,10 +29,12 @@ Hello! I'm **Bilal Tariq**, a **Software Engineering Student at COMSATS Universi
 |  🎓 Education    : BSE @ COMSATS University Islamabad (2023 – Present)           |
 |  📍 Location     : Islamabad, Pakistan                                            |
 |  💼 Status       : Open to Backend, Full-Stack & Mobile Engineering Internships   |
+|  🌐 Portfolio    : https://portfolio-six-lilac-33.vercel.app/                     |
 |  🚀 Primary Tech : Python, Dart, JavaScript, Flutter, MERN, Flask, MongoDB, Docker|
 +-----------------------------------------------------------------------------------+
 ```
 
+- 🌐 **Live Portfolio Website:** [portfolio-six-lilac-33.vercel.app](https://portfolio-six-lilac-33.vercel.app/)
 - 🔭 **What I Build:** Scalable web backends (Node.js/Express, Flask), cross-platform mobile solutions (Flutter), and intelligent AI workflows (NLP resume ranking engines, automated web scraping pipelines).
 - 🛠️ **Core Technologies:** Python, Dart, JavaScript, C++, Java, SQL, Flutter, Svelte, React, Node.js, Express, Flask, MongoDB, Docker, Scikit-learn, Pandas, Selenium.
 - 💡 **Engineering Philosophy:** Write clean, modular code based on strong architectural patterns (MVVM/SoC), optimal data structures, robust authentication, and containerized deployment.
@@ -45,6 +48,7 @@ Hello! I'm **Bilal Tariq**, a **Software Engineering Student at COMSATS Universi
 | :--- | :--- |
 | 🎓 **Academic Foundation** | **Bachelor of Software Engineering**, COMSATS University Islamabad (2023 – Present) |
 | 📍 **Location & Status** | Islamabad, Pakistan — **Actively seeking Software Engineering Internships / Junior Roles** |
+| 🌐 **Live Portfolio** | **[portfolio-six-lilac-33.vercel.app](https://portfolio-six-lilac-33.vercel.app/)** |
 | 🚀 **Core Domains** | Full-Stack Web Architecture, Mobile Application Development (Flutter), AI & NLP Systems |
 | 📚 **Active Upskilling** | Docker Orchestration, System Design Patterns, Redis Caching, CI/CD Pipelines |
 | 🌐 **Business & SEO Context**| Practical exposure to E-commerce platforms, SEO optimization, and Digital Marketing strategies |
@@ -231,7 +235,7 @@ Technical recruiters face severe bottlenecks manually reviewing hundreds of PDF 
 - **Scalable Ranking Computation:** Optimized Cosine Similarity matrix calculations to return candidate scores in under 500ms.
 
 - 🔗 **Repository:** [`github.com/bilalchannar/TalentScanAI`](https://github.com/bilalchannar/TalentScanAI)
-- 🖼️ **Live Demo:** *(Placeholder: `https://talentscanai.demo.app`)*
+- 🌐 **Live Demo App:** [talentscan-frontend.onrender.com/#/auth/login](https://talentscan-frontend.onrender.com/#/auth/login)
 
 ---
 
@@ -271,7 +275,7 @@ Generic URL shorteners rarely provide granular analytics regarding visitor geolo
 - **Non-Blocking Analytics Logging:** Asynchronously recorded click metadata in MongoDB without delaying user HTTP redirect responses.
 
 - 🔗 **Repository:** [`github.com/bilalchannar/Shrinkly`](https://github.com/bilalchannar/Shrinkly)
-- 🖼️ **Live Demo:** *(Placeholder: `https://shrinkly.demo.app`)*
+- 🌐 **Live Demo App:** [shrinkly-frontend.onrender.com](https://shrinkly-frontend.onrender.com/)
 
 ---
 
@@ -308,7 +312,6 @@ In critical safety situations, victims cannot navigate multi-step navigation men
 - **Reliable SMS/WhatsApp Dispatch:** Automated OTP message delivery via headless browser WhatsApp automation.
 
 - 🔗 **Repository:** [`github.com/bilalchannar/Muhafiz`](https://github.com/bilalchannar/Muhafiz)
-- 🖼️ **Live Demo:** *(Placeholder: `https://muhafiz.demo.app`)*
 
 ---
 
@@ -344,7 +347,7 @@ Real estate valuations in emerging markets often suffer from subjective pricing.
 - **Feature Multicollinearity:** Identified correlated parameters (e.g., covered area vs. bedroom count) to prevent model overfitting.
 
 - 🔗 **Repository:** [`github.com/bilalchannar/HousePricePrediction`](https://github.com/bilalchannar/HousePricePrediction)
-- 🖼️ **Live Demo:** *(Placeholder: `https://houseprice.demo.app`)*
+- 🌐 **Live Demo App:** [lahore-house-prices.streamlit.app](https://lahore-house-prices.streamlit.app/)
 
 ---
 
@@ -434,7 +437,7 @@ Real estate valuations in emerging markets often suffer from subjective pricing.
   <a href="https://github.com/bilalchannar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/bilaltariq20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bilalchannar01@gmail.com"><img src="https://img.shields.io/badge/Email-bilalchannar01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/bilalchannar"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://portfolio-six-lilac-33.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
