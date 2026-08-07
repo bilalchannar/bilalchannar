@@ -178,7 +178,7 @@ Hello! I'm **Bilal Tariq**, a **Software Engineering Student at COMSATS Universi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilalchannar&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&alarm=38BDF8&fire=38BDF8&ring=38BDF8 font=Fira+Code" width="97%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=bilalchannar&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&alarm=38BDF8&fire=38BDF8&ring=38BDF8" width="97%" alt="GitHub Streak Stats" />
 </p>
 
 ### 🐍 Contribution Activity Matrix
