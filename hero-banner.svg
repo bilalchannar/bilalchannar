@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="100%" height="100%" role="img" aria-label="Bilal Tariq Banner">
   <title>Bilal Tariq — Software Engineer Profile Banner</title>
   <desc>Custom modern dark-mode banner highlighting Bilal Tariq, Full Stack &amp; AI Developer at COMSATS University Islamabad.</desc>
@@ -69,7 +70,7 @@
 
   <!-- Subtitle -->
   <text x="60" y="185" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="600" fill="#cbd5e1">
-    Full Stack Developer  •  AI &amp; Flutter Specialist
+    Full Stack Developer  |  AI &amp; Flutter Specialist
   </text>
 
   <!-- Description -->
@@ -101,10 +102,10 @@
   <!-- Location & Footer -->
   <g transform="translate(60, 362)">
     <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500" fill="#64748b">
-      📍 Islamabad, Pakistan  |  🎓 COMSATS University Islamabad (2023 – Present)
+      LOCATION: Islamabad, Pakistan  |  EDUCATION: COMSATS University Islamabad (2023 - Present)
     </text>
     <text x="0" y="24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500" fill="#38bdf8">
-      ⚡ Actively seeking Backend, Full Stack &amp; Mobile Software Engineering Roles
+      STATUS: Actively seeking Backend, Full Stack &amp; Mobile Software Engineering Roles
     </text>
   </g>
 
