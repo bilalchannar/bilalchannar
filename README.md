@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bilalchannar">
-    <img src="./hero-banner.svg" alt="Bilal Tariq - Software Engineer Banner" width="100%" />
+    <img src="https://raw.githubusercontent.com/bilalchannar/bilalchannar/main/hero-banner.svg" alt="Bilal Tariq - Software Engineer Banner" width="100%" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
   <a href="https://github.com/bilalchannar"><img src="https://img.shields.io/github/followers/bilalchannar?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22&logoColor=ffffff" alt="GitHub Followers"></a>
   <a href="https://www.linkedin.com/in/bilaltariq20/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"></a>
   <a href="mailto:bilalchannar01@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"></a>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbilalchannar&count_bg=%2338BDF8&title_bg=%230D1117&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views"/></a>
+  <a href="https://github.com/bilalchannar"><img src="https://komarev.com/ghpvc/?username=bilalchannar&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
 ---
@@ -223,7 +223,7 @@ Technical recruiters face severe bottlenecks manually reviewing hundreds of PDF 
 #### ⚡ Key Engineering Features
 - **PDF Text Extraction Pipeline:** Automated parsing of raw PDF resume text for keyword normalization.
 - **NLP Match Ranking:** Built a vector scoring model using `scikit-learn` TF-IDF Vectorizer and Cosine Similarity.
-- **Full-Stack REST Architecture:** Lightweight Svelte frontend communicating with a Flask API storing candidate submissions in MongoDB.
+- **Full-Stack REST Architecture:** Lightweight Svelte frontend communicating with a Flask API storing candidate profiles in MongoDB.
 - **Security & Docker Containerization:** Secured with JWT authentication and packaged in Docker containers for reproducible multi-environment deployment.
 
 #### 🔑 Key Challenges Solved
