@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bilalchannar">
-    <img src="https://raw.githubusercontent.com/bilalchannar/bilalchannar/main/hero-banner.svg" alt="Bilal Tariq - Software Engineer Banner" width="100%" />
+    <img src="./hero-banner.svg" alt="Bilal Tariq - Software Engineer Banner" width="100%" />
   </a>
 </p>
 
@@ -173,8 +173,8 @@ Hello! I'm **Bilal Tariq**, a **Software Engineering Student at COMSATS Universi
 ## 📊 GitHub Analytics & Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilalchannar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="49%" alt="Bilal Tariq GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalchannar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="47%" alt="Top Languages Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=bilalchannar&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="49%" alt="Bilal Tariq GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilalchannar&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="47%" alt="Top Languages Stats" />
 </p>
 
 <p align="center">
