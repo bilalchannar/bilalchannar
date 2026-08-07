@@ -16,7 +16,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Check Markdown Links
-        uses: garthk/link-check-action@v1
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
-          sub-directory: '.'
-          file-path: 'README.md'
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          config-file: '.github/workflows/markdown-link-check-config.json'
